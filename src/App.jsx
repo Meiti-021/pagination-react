@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import User from "./user";
 
 function App() {
   const [data, setData] = useState(true);
@@ -9,7 +10,11 @@ function App() {
   }
   return (
     <div className="container">
-      <div className="users"></div>
+      <div className="users">
+        <User />
+        <User />
+        <User />
+      </div>
       <div className="btns">
         <button>Previuos</button>
         <button>1</button>
