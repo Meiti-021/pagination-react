@@ -21,27 +21,6 @@ function App() {
         <button>1</button>
         <button>1</button>
         <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
-        <button>1</button>
         <button>Next</button>
       </div>
     </div>
