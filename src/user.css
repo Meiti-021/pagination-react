@@ -1,0 +1,32 @@
+.user {
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  background-color: #747bff;
+  color: #fff;
+}
+
+.user-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 10px -5px white, -10px 5px black;
+}
+
+.follow {
+  background-color: greenyellow;
+  padding: 0;
+  width: 100px;
+  border-radius: 5px;
+  background-color: aqua;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 12px;
+}
